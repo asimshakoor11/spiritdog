@@ -1,0 +1,1 @@
+{"success":true,"current_step":{"id":3729890,"type":"landing"},"hash":"27914d53071c42e0deaecae4408901b9","next_link":"https:\/\/spiritdogtraining.com\/tackling-reactivity-old-version-2\/","support_track":true}
